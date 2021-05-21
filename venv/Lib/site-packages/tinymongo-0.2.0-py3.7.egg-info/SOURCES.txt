@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+tinymongo/__init__.py
+tinymongo/errors.py
+tinymongo/results.py
+tinymongo/serializers.py
+tinymongo/tinymongo.py
+tinymongo.egg-info/PKG-INFO
+tinymongo.egg-info/SOURCES.txt
+tinymongo.egg-info/dependency_links.txt
+tinymongo.egg-info/requires.txt
+tinymongo.egg-info/top_level.txt
